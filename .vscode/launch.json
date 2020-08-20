@@ -6,7 +6,6 @@
     "configurations": [
         {
             "type": "pwa-chrome",
-            //"type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
             "url": "localhost:8080",
